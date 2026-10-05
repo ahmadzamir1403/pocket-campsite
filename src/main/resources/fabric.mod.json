@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "pocketcampsite",
+  "version": "1.0.0",
+  "name": "Pocket Campsite",
+  "description": "A reusable portable tent with storage, crafting and a bedroll for resting.",
+  "authors": ["Saki"],
+  "environment": "*",
+  "entrypoints": {"main": ["com.pocketcampsite.PocketCampsite"], "client": ["com.pocketcampsite.client.PocketCampsiteClient"]},
+  "depends": {"fabricloader": ">=0.19.5", "minecraft": "26.3", "java": ">=25", "fabric-api": "*"},
+  "icon": "assets/pocketcampsite/icon.png"
+}

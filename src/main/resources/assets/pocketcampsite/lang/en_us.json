@@ -1,0 +1,14 @@
+{
+  "item.pocketcampsite.campsite_kit": "Pocket Campsite Kit",
+  "entity.pocketcampsite.campsite": "Pocket Campsite",
+  "block.pocketcampsite.camp_bed": "Campsite Bedroll",
+  "container.pocketcampsite.campsite": "Pocket Campsite",
+  "button.pocketcampsite.craft": "Craft",
+  "button.pocketcampsite.rest": "Rest",
+  "button.pocketcampsite.pack": "Pack",
+  "message.pocketcampsite.space": "Your campsite needs a clear 3 x 3 area on solid ground.",
+  "message.pocketcampsite.owner": "Only the owner can use or pack this campsite.",
+  "message.pocketcampsite.rest_time": "You can rest here only at night or during a thunderstorm.",
+  "message.pocketcampsite.rest_dimension": "Your campsite bedroll works only in the Overworld.",
+  "message.pocketcampsite.occupied": "Wake up the camper before packing the campsite."
+}

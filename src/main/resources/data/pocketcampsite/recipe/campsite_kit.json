@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["WWW", "CBC", "HTC"],
+  "key": {"W": "minecraft:white_wool", "C": "minecraft:copper_ingot", "B": "minecraft:white_bed", "H": "minecraft:chest", "T": "minecraft:crafting_table"},
+  "result": {"id": "pocketcampsite:campsite_kit", "count": 1}
+}
